@@ -14,5 +14,10 @@ h3 {
 a {
     text-decoration: none;
     color: inherit;
-    font-weight: 0.9em;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.tecmundo {
+    color: #032859;
 }
